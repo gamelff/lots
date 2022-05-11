@@ -1,0 +1,1 @@
+the status of webpage dev is [![pages-build-deployment](https://github.com/gamelff/lots/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/gamelff/lots/actions/workflows/pages/pages-build-deployment)
